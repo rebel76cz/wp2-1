@@ -1,0 +1,14 @@
+h1{
+   padding: 20px 10px;
+   color: rgb(25, 151, 5);
+ }
+
+ body{
+  background-color: rgba(155, 154, 154, 0.959);
+ }
+input{
+  color: rgb(10, 10, 10);
+}
+form{
+  color: rgb(226, 214, 43);
+}
